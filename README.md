@@ -1,6 +1,5 @@
- 
-
-<h1 align="center">🌿⃝🌿⃝𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐁𝐔𝐆𝐁𝐎𝐓🌿⃝</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐓𝐈𝐆𝐄𝐑+𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄+𝐁𝐔𝐆𝐁𝐎𝐓⚡;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
@@ -12,43 +11,54 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 
 ------
 
-# 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎  𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐁𝐔𝐆𝐁𝐎𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝚃𝙸𝙶𝙴𝚁+𝙱𝚄𝙶𝙱𝙾𝚃+𝚆𝙰𝚂+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫)](https://git.io/typing-svg)
 
- ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+XBUGBOT+CRASH)](https://git.io/typing-svg)
 
-## ```Connect With Me```
-<p align="center">
- <a href="https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH" /><br>
-
+CONTACT BOT DEVELOPER 
+- <a aria-label="Join our chats" href="https://wa.me/254702713600?text=Hi!! `ARLODRAGON` Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## ```Bot Support Group Chats```
 
-- [`GC`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
-- [`Channel`](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q)
+- [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
+- [`BOT WHATSAPP Channel`](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q)
+
 
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [`Here`](https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡)](https://git.io/typing-svg)
+  [`CLICK HERE TO FORK`](https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork)
 
 ## `Generate Pair Code For Session`
 
 [`𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐓𝐈𝐆𝐄𝐑 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
-    <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
-
+    
 
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
 
-# Instalasi
-## Heroku Buildpack
-```bash
+   
+<img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="1000">
+ 
+    
+⚡ HEROKU BUILDPACKS 
+  
+  
+  ```bash
 heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-*Add your Creds.json to Classic file
-* Create a new app at [Heroku](heroku.com)
+```bash
+https://github.com/jonathanong/heroku-buildpack-
+ffmpeg-latest
+```
+```bash
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+
+```
+*Add your Creds.json to 𝚃𝙸𝙶𝙴𝚁𝚂𝙴𝚂𝚂𝙸𝙾𝙽 file
+* Create a new app at [Heroku](https://dashboard.heroku.com/new-app)
 * Add Build packs
 * Connect your heroku with your github
 * Locate Tiger-Bugs
@@ -66,9 +76,21 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
     <br>
 <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ DISCORD+DEPLOYMENT" alt="Typing SVG" /></a>
+ 
+  ```bash
+  * upload tiger-radioactive zip
+  * unarchive the zip
+  * delete the zip 
+  * move the files to ../
+  * link tiger using pairing code and replace the credsjson in Tigersession
+* Go to console and start 
+* wait for 5mins and your bot starts running 
 ```
-## `For Termux/Ssh/Ubuntu`
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT 👇" alt="Typing SVG" /></a>
+
 ```bash
 apt update
 apt upgrade
@@ -85,7 +107,9 @@ cd TIGER-BUGBOT-RADIATION
 yarn install
 npm start
 ```
-## `For VPS`
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR VPS 👇" alt="Typing SVG" /></a>
+  
 ```bash
 apt install nodejs 
 apt install git 
@@ -97,9 +121,12 @@ git clone https://github.com/Kingdragony/Tiger-Bugbot-Radiation
 cd TIGER-BUGBOT-RADIATION 
 npm start
 ```
-## `For 24/7 Activation (Termux)`
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+TERMUX ACTIVATION 👇👇 " alt="Typing SVG" /></a>
+  
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
- ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
+ <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+THANKS FOR YOUR SUPPORT " alt="Typing SVG" /></a>
