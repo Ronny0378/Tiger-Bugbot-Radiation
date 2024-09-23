@@ -1,7 +1,7 @@
 /*
 
 › Create By Arlodragon
-› Collaborator Alone
+›  Alone
 
                  
 */
@@ -48,7 +48,7 @@ participant: '0@s.whatsapp.net'
 },
 message: {
 listResponseMessage: {
-title: ` ◥◤◢◤ ★彡 𝑻𝑰𝑮𝑬𝑹 𝑹𝑨𝑫𝑰𝑺?彡★◥◣◥◤ `
+title: ` ◥◤◢◤ ★彡 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 ?彡★◥◣◥◤ `
 }
 }
 }
@@ -524,7 +524,7 @@ await zetsubo.relayMessage(target, etc.message, { participant: { jid: target }, 
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['available']
+let rn = ['recording']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
@@ -2980,7 +2980,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝚃𝙸𝙶𝙴𝚁 𝚁𝙰𝙳𝙸𝙾𝙰𝙲𝚃𝙸𝚅𝙴 𝙱𝚄𝙶𝙱𝙾𝚃 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -2989,7 +2989,7 @@ case 'runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'kawai/file-90919-361612 (1) (1).jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH',
+                            sourceUrl: 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -3331,7 +3331,7 @@ await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt
 mediaType:  1,
 MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
 title: `THEE DRAGON`,
-sourceUrl: `https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV`, 
+sourceUrl: `https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q`, 
 }
 }})
 break
@@ -3349,8 +3349,8 @@ break
 case 'sc': case 'script': case 'repo':
 await inireact()
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/08f9ac09d340afe3b250c.jpg` }, caption: 
-`┏━━━━━━━━━━━━━━━━━━╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n┗━━━━━━━━━━━━━━━━━╼╼╼╼╼╼╼╯⸼` });
+ zetsubo.sendMessage(m.chat, { image: { url: `https://i.imgur.com/jQh5iIT.jpeg` }, caption: 
+`▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ Channel [ https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ].\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ ⸼` });
 
    break;
 //=================================================
@@ -3397,7 +3397,7 @@ case 'broadcast':
 //=================================================
 case "alive":
 await inireact()
-const audiovn = "./Classic.mp3";
+const audiovn = "./Tiger.mp3";
     const dooc = {
         audio: {
           url: audiovn
@@ -3410,9 +3410,9 @@ const audiovn = "./Classic.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐓𝐢𝐠𝐞𝐫 𝐑𝐚𝐝𝐢𝐨𝐚𝐜𝐭𝐢𝐯𝐞 𝐁𝐮𝐠𝐛𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          title: "𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵  𝐈𝐬 𝐀𝐥𝐢𝐯𝐞",
           body: "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH",
-          thumbnailUrl: "https://telegra.ph/file/8ac8289f695113fd799b4.jpg",
+          thumbnailUrl: "https://i.imgur.com/tUqZbZd.jpeg",
           sourceUrl: "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH",
           mediaType: 1,
           renderLargerThumbnail: true
@@ -4649,9 +4649,9 @@ https://cloud.google.com/translate/docs/languages
     break
 //=================================================//
 case 'play':
-    case 'music': {
+    case 'play2': {
         if (!text) {
-            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝙷𝙴𝙰𝙳𝙻𝙸𝙶𝙷𝚃𝚂 𝙱𝚈 𝙰𝙻𝙰𝙽 𝚆𝙰𝙻𝙺𝙴𝚁')
+            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝙿𝚕𝚊𝚢 𝚂𝚑𝚞𝚜𝚑𝚊 𝙽𝚢𝚊𝚟𝚞 𝚋𝚢 𝙲𝚑𝚛𝚒𝚜𝚝𝚒𝚗𝚊 𝚂𝚞𝚜𝚑𝚘')
             return;
         }
         try {
@@ -4666,7 +4666,7 @@ case 'play':
             let infoYt = await ytdl.getInfo(urlYt);
             //30 MIN
             if (infoYt.videoDetails.lengthSeconds >= 1800) {
-                reply(`𝑷𝒍𝒆𝒂𝒔𝒆 𝒔𝒊𝒓\𝑰'𝒎 𝒏𝒐𝒕 𝒂𝒃𝒍𝒆 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒕𝒉𝒂𝒕 𝒇𝒊𝒍𝒆. 🧞‍♂️`);
+                reply(`Too big!\I'm Unable to download big files. 🤥`);
                 return;
             }
             const getRandonm = (ext) => {
@@ -4692,14 +4692,14 @@ case 'play':
             console.log("Audio downloaded ! \n Size: " + fileSizeInMegabytes);
             if (fileSizeInMegabytes <= 40) {
                 //sendFile(from, fs.readFileSync(`./${randomName}`), msg, { audio: true, jpegThumbnail: (await getBuffer(dl.meta.image)).buffer, unlink: true })
-                await zetsubo.sendMessage(
+                await client.sendMessage(
                     from, {
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "💢 𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 𝐁𝐘 ARLODRAGON  🩸 ",    
+			caption: "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1®",    
                     }, {
-                        quoted: m 
+                        quoted: fcontact 
                     }
                 );
             } else {

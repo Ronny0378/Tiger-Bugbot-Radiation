@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐓𝐈𝐆𝐄𝐑+𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄+𝐁𝐔𝐆𝐁𝐎𝐓⚡;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝚻𝚰𝐆𝚵𝚪+𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 
@@ -32,10 +32,10 @@ CONTACT BOT DEVELOPER
 
 ## `Generate Pair Code For Session`
 
-[`𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐓𝐈𝐆𝐄𝐑 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
+[`𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐓𝐈𝐆𝐄𝐑 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://tigercodes-d2affec7cdbf.herokuapp.com/pair)
     
 
-.[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
+.[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://tiger-radioactive-f1508ee3c04c.herokuapp.com/pair).
 
   
     
